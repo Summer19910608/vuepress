@@ -1,13 +1,5 @@
 # VuePress Cli
 
-## VuePress 博客搭建工具
-
-基于 [Yur](https://github.com/cnguu/vuepress-theme-yur) 主题的 VuePress 博客快速搭建工具
-
-[![version](https://img.shields.io/github/release/ioim/vuepress-theme-yur-cli.svg?style=flat-square)](https://github.com/ioim/vuepress-theme-yur-cli/releases)
-[![last-commit](https://badgen.net/github/last-commit/ioim/vuepress-theme-yur-cli)](https://github.com/ioim/vuepress-theme-yur-cli)
-[![GitHub license](https://img.shields.io/github/license/ioim/vuepress-theme-yur-cli)](https://github.com/ioim/vuepress-theme-yur-cli/blob/master/LICENSE)
-
 ## 准备
 
 - 源码仓库（源码备份）
@@ -19,21 +11,15 @@
 - Node.js
 - yarn
 
-### 开发环境搭建
-
-- [Windows 开发环境搭建](https://eeee.im/build/windows-an-zhuangnodejs.html)
-- [CentOS 开发环境搭建](https://eeee.im/build/centos-an-zhuangnodejs.html)
-- [Ubuntu 开发环境搭建](https://eeee.im/build/nodejs.html)
 
 ## 使用
 
 ### 下载
 
 ```bash
-$ git clone https://github.com/ioim/vuepress-theme-yur-cli.git
+$ git clone https://github.com/Summer19910608/vuepress.git
 ```
 
-> 或者点击[这里](https://github.com/ioim/vuepress-theme-yur-cli/releases)下载最新版。
 
 ### 修改仓库地址
 
