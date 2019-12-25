@@ -1,6 +1,6 @@
 module.exports = {
     base: '/',
-    title: '书香门第',
+    title: '追忆记',
     description: '责难无以成事',
     head: [
         ['meta', {
@@ -8,7 +8,7 @@ module.exports = {
             content: 'width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0',
         }],
         ['meta', { name: 'X-UA-Compatible', content: 'ie=edge' }],
-        ['meta', { name: 'keywords', content: 'cnguu,gleehub,书香门第,博客' }],
+        ['meta', { name: 'keywords', content: 'cnguu,gleehub,追忆记,博客' }],
         ['meta', { name: 'theme-color', content: '#3c67bd' }],
         ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
@@ -104,7 +104,7 @@ module.exports = {
             banner: '/20171231/summer-solstice-strawberry-moon.gif',
             blog: [
                 {
-                    title: '书香门第',                                                                  // 站点名称
+                    title: '追忆记',                                                                  // 站点名称
                     subtitle: '责难无以成事',                                                           // 站点描述
                     link: 'http://m.zui789.com/',                                                      // 站点网址
                     logo: 'https://static.xmt.cn/cc50c217cbe342ce951324583f2c6139.png',                // 头像或者 Logo

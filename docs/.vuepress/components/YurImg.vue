@@ -16,7 +16,7 @@
             alt: {
                 type: String,
                 required: false,
-                default: '书香门第',
+                default: '追~忆~记',
             },
         },
         data() {
